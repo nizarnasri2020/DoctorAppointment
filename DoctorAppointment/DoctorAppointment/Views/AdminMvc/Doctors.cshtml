@@ -1,0 +1,31 @@
+﻿@model List<DoctorAppointment.Domain.Entities.Doctor>
+
+<h2>Doctors</h2>
+
+<a href="/AdminMvc/CreateDoctor" class="btn btn-success">➕ Add Doctor</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Specialty</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.FullName</td>
+                <td>@doctor.Email</td>
+                <td>@doctor.Specialty?.Name</td>
+                <td>
+                    <a href="/AdminMvc/DeleteDoctor/@doctor.Id"
+                       class="btn btn-danger btn-sm"
+                       onclick="return confirm('Are you sure?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

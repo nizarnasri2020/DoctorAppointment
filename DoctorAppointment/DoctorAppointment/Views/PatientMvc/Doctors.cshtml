@@ -1,0 +1,24 @@
+﻿@model List<DoctorAppointment.Domain.Entities.Doctor>
+
+<h2>Doctors</h2>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Specialty</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.FullName</td>
+            <td>@d.Email</td>
+            <td>@d.Specialty?.Name</td>
+            <td>
+                <a href="/PatientMvc/Book/@d.Id">Book Appointment</a>
+            </td>
+        </tr>
+    }
+</table>

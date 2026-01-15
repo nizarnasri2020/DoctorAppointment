@@ -1,0 +1,20 @@
+﻿@model List<DoctorAppointment.Domain.Entities.Appointment>
+
+<h2>My Appointments</h2>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Doctor</th>
+        <th>Date</th>
+        <th>Status</th>
+    </tr>
+
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>@a.Doctor.FullName</td>
+            <td>@a.AppointmentDate</td>
+            <td>@a.Status</td>
+        </tr>
+    }
+</table>

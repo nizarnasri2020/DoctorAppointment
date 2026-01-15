@@ -1,0 +1,45 @@
+﻿@model List<DoctorAppointment.Domain.Entities.MedicalReport>
+@{
+    ViewBag.Title = "Reports";
+    var doctorId = ViewBag.DoctorId;
+}
+
+<h2>Reports for Doctor @doctorId</h2>
+
+<!-- Form to select appointment for creating a new report -->
+<form asp-action="Create" asp-controller="ReportsMvc" method="get">
+    <input type="hidden" name="doctorId" value="@doctorId" />
+    <label>Select Appointment:</label>
+    <select name="appointmentId" class="form-control" style="width:300px; display:inline-block;">
+        <option value="">-- Select Appointment --</option>
+        @foreach (var appointment in ViewBag.Appointments as List<DoctorAppointment.Domain.Entities.Appointment>)
+        {
+            <option value="@appointment.Id">
+                @appointment.Patient.FullName (@appointment.AppointmentDate.ToString("g"))
+            </option>
+        }
+    </select>
+    <button type="submit" class="btn btn-success">➕ Add Report</button>
+</form>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Patient</th>
+            <th>Diagnosis</th>
+            <th>Prescription</th>
+            <th>Created At</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.Appointment.Patient.FullName</td>
+                <td>@r.Diagnosis</td>
+                <td>@r.Prescription</td>
+                <td>@r.CreatedAt.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>

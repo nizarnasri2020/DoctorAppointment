@@ -1,0 +1,28 @@
+﻿@model DoctorAppointment.Controllers.MVC.ViewModels.CreateDoctorVm
+
+<h2>Add Doctor</h2>
+
+<form asp-action="CreateDoctor" method="post">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <label>Full Name:</label><br />
+        <input asp-for="FullName" class="form-control" />
+    </div>
+    <div>
+        <label>Email:</label><br />
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div>
+        <label>Specialty:</label><br />
+        <select asp-for="SelectedSpecialty" class="form-control">
+            <option value="">-- Select Specialty --</option>
+            @foreach (var s in Model.Specialties)
+            {
+                <option value="@s">@s</option>
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Save Doctor</button>
+</form>
