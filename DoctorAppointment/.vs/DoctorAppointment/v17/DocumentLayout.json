@@ -3,16 +3,84 @@
   "WorkspaceRootPath": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{515418DB-B77D-47A8-B31D-3418010FC1BA}|DoctorAppointment.Tests\\DoctorAppointment.Tests.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.tests\\appointments\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515418DB-B77D-47A8-B31D-3418010FC1BA}|DoctorAppointment.Tests\\DoctorAppointment.Tests.csproj|solutionrelative:doctorappointment.tests\\appointments\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515418DB-B77D-47A8-B31D-3418010FC1BA}|DoctorAppointment.Tests\\DoctorAppointment.Tests.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.tests\\doctors\\doctorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515418DB-B77D-47A8-B31D-3418010FC1BA}|DoctorAppointment.Tests\\DoctorAppointment.Tests.csproj|solutionrelative:doctorappointment.tests\\doctors\\doctorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|solutionrelative:doctorappointment.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|solutionrelative:doctorappointment.application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.application\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|solutionrelative:doctorappointment.application\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515418DB-B77D-47A8-B31D-3418010FC1BA}|DoctorAppointment.Tests\\DoctorAppointment.Tests.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.tests\\testdbcontextfactory.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515418DB-B77D-47A8-B31D-3418010FC1BA}|DoctorAppointment.Tests\\DoctorAppointment.Tests.csproj|solutionrelative:doctorappointment.tests\\testdbcontextfactory.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|solutionrelative:doctorappointment.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.application\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F52A1D-A6BD-471D-94DE-44DA0679C35C}|DoctorAppointment.Application\\DoctorAppointment.Application.csproj|solutionrelative:doctorappointment.application\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\viewmodels\\createreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\viewmodels\\createreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.domain\\doctorappointment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|solutionrelative:doctorappointment.domain\\doctorappointment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\adminmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\adminmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\doctormvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\doctormvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\viewmodels\\bookappointmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\viewmodels\\bookappointmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\viewmodels\\createdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\viewmodels\\createdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\viewmodels\\bookappointmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\mvc\\viewmodels\\bookappointmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\mvc\\reportsmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +111,8 @@
       "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\adminmvc\\createdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\views\\reportsmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\reportsmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03930B97-CABC-4C86-B842-0518D5992ADE}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.domain\\entities\\medicalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|solutionrelative:doctorappointment.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|solutionrelative:doctorappointment.domain\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|d:\\maintenanceniz\\doctorappointment\\doctorappointment\\doctorappointment.domain\\entities\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31066C90-E897-4F56-B682-1F0CE5AA5808}|DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj|solutionrelative:doctorappointment.domain\\entities\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -82,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1043,
-          "SelectedChildIndex": 105,
+          "SelectedChildIndex": 103,
           "Children": [
             {
               "$type": "Bookmark",
@@ -402,10 +458,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -501,77 +553,261 @@
               "Name": "ST:6:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentServiceTests.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Tests\\Appointments\\AppointmentServiceTests.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Tests\\Appointments\\AppointmentServiceTests.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Tests\\Appointments\\AppointmentServiceTests.cs",
+              "RelativeToolTip": "DoctorAppointment.Tests\\Appointments\\AppointmentServiceTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:54:28.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Application\\Services\\AppointmentService.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointment.Application\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:52:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Application\\Services\\IAppointmentService.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointment.Application\\Services\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:51:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDbContextFactory.cs.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Tests\\TestDbContextFactory.cs.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Tests\\TestDbContextFactory.cs.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Tests\\TestDbContextFactory.cs.cs",
+              "RelativeToolTip": "DoctorAppointment.Tests\\TestDbContextFactory.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:39:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Application\\Services\\IDoctorService.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\IDoctorService.cs",
+              "RelativeToolTip": "DoctorAppointment.Application\\Services\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:58:34.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Application\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Application\\Services\\DoctorService.cs",
+              "RelativeToolTip": "DoctorAppointment.Application\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:58:22.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorServiceTests.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Tests\\Doctors\\DoctorServiceTests.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Tests\\Doctors\\DoctorServiceTests.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Tests\\Doctors\\DoctorServiceTests.cs",
+              "RelativeToolTip": "DoctorAppointment.Tests\\Doctors\\DoctorServiceTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:51:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
+              "RelativeToolTip": "DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:38:22.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:05:31.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateReportVm.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateReportVm.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateReportVm.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateReportVm.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateReportVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:59:09.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminMvcController.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\AdminMvcController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\AdminMvcController.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\AdminMvcController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\AdminMvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:59:05.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:45:57.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateDoctorVm.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateDoctorVm.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateDoctorVm.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateDoctorVm.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\ViewModels\\CreateDoctorVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:45:54.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Program.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Program.cs",
+              "RelativeToolTip": "DoctorAppointment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:07:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorAppointment.Domain.csproj",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj",
+              "RelativeDocumentMoniker": "DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj",
+              "RelativeToolTip": "DoctorAppointment.Domain\\DoctorAppointment.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T10:24:38.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorMvcController.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\DoctorMvcController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\DoctorMvcController.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\DoctorMvcController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\DoctorMvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:45:49.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AppointmentsController.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\AppointmentsController.cs",
               "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "DoctorAppointment\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:13:14.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:13:14.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\HomeController.cs",
               "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\HomeController.cs",
               "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\HomeController.cs",
               "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:13:11.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:13:11.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MedicalDbContext.cs",
-              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
-              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
-              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T13:00:35.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
-              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
-              "RelativeToolTip": "DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T14:26:34.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\ReportsController.cs",
               "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\ReportsController.cs",
               "RelativeToolTip": "DoctorAppointment\\Controllers\\ReportsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T14:27:30.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:27:30.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
+              "Title": "MedicalDbContext.cs",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
+              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Persistence\\MedicalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:00:35.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
+              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\ReportsMvc\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T14:26:34.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "BookAppointmentVm.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\ViewModels\\BookAppointmentVm.cs",
               "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\ViewModels\\BookAppointmentVm.cs",
@@ -579,12 +815,11 @@
               "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\ViewModels\\BookAppointmentVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T14:50:16.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:50:16.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "PatientMvcController.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\PatientMvcController.cs",
               "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\PatientMvcController.cs",
@@ -592,12 +827,11 @@
               "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\PatientMvcController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAqwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T14:46:37.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:46:37.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "ReportsMvcController.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Controllers\\MVC\\ReportsMvcController.cs",
               "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\MVC\\ReportsMvcController.cs",
@@ -605,12 +839,11 @@
               "RelativeToolTip": "DoctorAppointment\\Controllers\\MVC\\ReportsMvcController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAIwEQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T14:27:43.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:27:43.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "Book.cshtml",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Views\\PatientMvc\\Book.cshtml",
               "RelativeDocumentMoniker": "DoctorAppointment\\Views\\PatientMvc\\Book.cshtml",
@@ -618,12 +851,11 @@
               "RelativeToolTip": "DoctorAppointment\\Views\\PatientMvc\\Book.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T14:51:19.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:51:19.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Entities\\User.cs",
@@ -631,12 +863,11 @@
               "RelativeToolTip": "DoctorAppointment.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:39:54.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T10:39:54.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "Patient.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Entities\\Patient.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Entities\\Patient.cs",
@@ -644,12 +875,11 @@
               "RelativeToolTip": "DoctorAppointment.Domain\\Entities\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:37:21.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T10:37:21.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "CreateDoctor.cshtml",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Views\\AdminMvc\\CreateDoctor.cshtml",
               "RelativeDocumentMoniker": "DoctorAppointment\\Views\\AdminMvc\\CreateDoctor.cshtml",
@@ -657,25 +887,11 @@
               "RelativeToolTip": "DoctorAppointment\\Views\\AdminMvc\\CreateDoctor.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T14:51:01.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:51:01.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Program.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment\\Program.cs",
-              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment\\Program.cs",
-              "RelativeToolTip": "DoctorAppointment\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T13:07:54.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "Specialty.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Entities\\Specialty.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Entities\\Specialty.cs",
@@ -687,19 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppointmentStatus.cs",
-              "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
-              "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
-              "RelativeToolTip": "DoctorAppointment.Domain\\Enums\\AppointmentStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:38:22.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Enums\\UserRole.cs",
@@ -711,19 +915,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "MedicalReport.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Entities\\MedicalReport.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Entities\\MedicalReport.cs",
               "ToolTip": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Entities\\MedicalReport.cs",
               "RelativeToolTip": "DoctorAppointment.Domain\\Entities\\MedicalReport.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T10:37:34.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "Doctor.cs",
               "DocumentMoniker": "D:\\MaintenanceNiz\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.Domain\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Domain\\Entities\\Doctor.cs",

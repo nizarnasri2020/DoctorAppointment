@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorAppointment.Domain", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorAppointment.Infrastructure", "DoctorAppointment.Infrastructure\DoctorAppointment.Infrastructure.csproj", "{90F1B2BC-7A51-4CF8-99D5-F8ABC3A5D195}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorAppointment.Tests", "DoctorAppointment.Tests\DoctorAppointment.Tests.csproj", "{515418DB-B77D-47A8-B31D-3418010FC1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorAppointment.Application", "DoctorAppointment.Application\DoctorAppointment.Application.csproj", "{26F52A1D-A6BD-471D-94DE-44DA0679C35C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{90F1B2BC-7A51-4CF8-99D5-F8ABC3A5D195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90F1B2BC-7A51-4CF8-99D5-F8ABC3A5D195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90F1B2BC-7A51-4CF8-99D5-F8ABC3A5D195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515418DB-B77D-47A8-B31D-3418010FC1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515418DB-B77D-47A8-B31D-3418010FC1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515418DB-B77D-47A8-B31D-3418010FC1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515418DB-B77D-47A8-B31D-3418010FC1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F52A1D-A6BD-471D-94DE-44DA0679C35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F52A1D-A6BD-471D-94DE-44DA0679C35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F52A1D-A6BD-471D-94DE-44DA0679C35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F52A1D-A6BD-471D-94DE-44DA0679C35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

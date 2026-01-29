@@ -1,3 +1,4 @@
+using DoctorAppointment.Application.Services;
 using DoctorAppointment.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,7 +12,7 @@ string dbPath = Path.Combine(
 
 builder.Services.AddDbContext<MedicalDbContext>(options =>
     options.UseSqlite($"Data Source={dbPath}"));
-
+builder.Services.AddScoped<IDoctorService, DoctorService>();
 // Use Controllers + Views for MVC
 builder.Services.AddControllersWithViews();   // <-- replace AddControllers()
 

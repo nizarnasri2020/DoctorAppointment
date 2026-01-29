@@ -1,4 +1,5 @@
-﻿using DoctorAppointment.Infrastructure.Persistence;
+﻿using DoctorAppointment.Application.Services;
+using DoctorAppointment.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +20,11 @@ namespace DoctorAppointment.Controllers
         public IActionResult GetDoctors()
         {
             return Ok(_context.Doctors.Include(d => d.Specialty).ToList());
+        }
+        [HttpGet("count")]
+        public IActionResult GetDoctorsCount([FromServices] IDoctorService service)
+        {
+            return Ok(service.GetDoctorsCount());
         }
     }
 }
